@@ -18,7 +18,7 @@ Levenshtein Distance
 - WandB
 
 
-## data
+## Data
 - [AI HUB 뉴스기사 기계독해](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=577)
 - [Kaggle Baseline](https://www.kaggle.com/competitions/k-digital-goorm-4-korean-mrc)
 
